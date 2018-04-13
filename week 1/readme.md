@@ -3,6 +3,7 @@
 This week i made a chat using [socket.io](https://socket.io/) and vanilla JavaScript. It isn't your regular chat. In this chat you can use a special command to trigger the game hangman!
 
 ![Screenshot of the chat](https://github.com/muise001/real-time-web/blob/master/Chat%20screenshot.png)
+[Chat hier!](https://chat-lowprpzcgq.now.sh/)
 
 ### Features
 * **Chat**
